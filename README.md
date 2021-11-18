@@ -66,11 +66,8 @@ Below is a list of some of the commands you can try giving the AI:
 Please also try talking to the AI, asking random questions beyond the normal tasks listed above.
 
 
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 Copyright Exclusive to Simran Farrukh
